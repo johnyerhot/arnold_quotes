@@ -10,6 +10,6 @@ Example
 
 a = User.new
 a.quote
-
+=> "Arr get to the chopper!"
 
 Copyright (c) 2009 John Yerhot, released under the MIT license
