@@ -1,13 +1,15 @@
 Quote
 =====
 
-Introduction goes here.
-
+Displays back an awesome Arnold quote in your models!
+After installation run the rake setup task!
+rake quote:setup
 
 Example
 =======
 
-Example goes here.
+a = User.new
+a.quote
 
 
-Copyright (c) 2009 [name of plugin creator], released under the MIT license
+Copyright (c) 2009 John Yerhot, released under the MIT license
